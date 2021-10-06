@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @satochinaka
+- 👋 Hi, I’m @manubeledo
 - 👀 I’m interested in Full Stack Web Dev
 - 🌱 I’m currently learning Node.JS
 - 💞️ I’m looking to collaborate on Webpages
